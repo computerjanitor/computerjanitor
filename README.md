@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and PowerShell
 - 💞️ I’m looking to collaborate on small projects using Python
 - 📫 How to reach me - zach@zacharyholcomb.tech 
+- ⌨️ You can view my Edabit profile here: https://edabit.com/user/LMMLWdiJB9gjRRNvi
 
 <!---
 computerjanitor/computerjanitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
