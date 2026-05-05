@@ -2,7 +2,6 @@
 - 👀 I’m interested in systems administration and engineering, Python, PowerShell, Bash, and scripting.
 - 🌱 I’m currently learning Python and PowerShell
 - 💞️ I’m looking to collaborate on small projects using Python
-- 📫 How to reach me - zach@zacharyholcomb.tech 
 - ⌨️ You can view my Edabit profile here: https://edabit.com/user/LMMLWdiJB9gjRRNvi
 
 <!---
